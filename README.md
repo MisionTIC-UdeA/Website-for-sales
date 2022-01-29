@@ -1,16 +1,17 @@
 # Website-for-sales
 Website to manage the sales of a product or service.
 
-¿Cómo usar este proyecto? 
+How to use this project?
+## Step 1: Clone the project.
 
-Paso 1: clonar el proyecto
+`git clone`
 
-git clone
 
-Paso 2: navegar hacia la carpeta e instalar dependencias
+## Step 2: Navigate to the folder and install dependencies.
 
-yarn install
+`yarn install`
 
-Paso 3: ejecutar el proyecto
 
-yarn start
+## Step 3: Run the project.
+
+`yarn start`
